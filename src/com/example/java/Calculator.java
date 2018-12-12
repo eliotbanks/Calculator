@@ -11,7 +11,7 @@ public class Calculator {
         String s2 = getInput("Enter a numeric value: ");
         String op = getInput("Choose an operation (+ - * /):");
 
-        System.out.println("belleend");
+        System.out.println("bellend");
 
         double result;
 
